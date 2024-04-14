@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/carBlack.png</file>
+        <file>images/carBrown.png</file>
+        <file>images/carCyan.png</file>
+        <file>images/carDarkGreen.png</file>
+        <file>images/carDarkRed.png</file>
+        <file>images/carRed.png</file>
+        <file>images/coin1.png</file>
+        <file>images/coin2.png</file>
+        <file>images/coin4.png</file>
+        <file>images/racetrack.png</file>
+        <file>images/vanila.png</file>
+        <file>images/track.png</file>
+        <file>images/FinalTrack.png</file>
+        <file>images/BackgroundButtons.png</file>
+        <file>images/backgroundMainwindow.png</file>
+    </qresource>
+</RCC>
